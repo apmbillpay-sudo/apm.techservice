@@ -1,0 +1,6 @@
+{
+  "name": "BSE Pulse",
+  "description": "BSE stock tracking, technical indicators, 5-year price projections, volatility modeling, corporate structure, shareholding patterns, IPO metrics, and regulatory filings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
